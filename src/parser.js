@@ -69,8 +69,6 @@ class Parser {
         return this.parseSZSE(html);
       case 'csrc':
         return this.parseCSRC(html);
-      case 'sinastock':
-        return this.parseSinaStock(html);
       default:
         console.error(`Unknown type: ${type}`);
         return [];
@@ -107,34 +105,6 @@ class Parser {
     }
     
     return new Date().toISOString().split('T')[0];
-  }
-
-  parseSinaStock(html) {
-    const $ = cheerio.load(html);
-    const items = [];
-
-    this.baseUrl = 'https://finance.sina.com.cn';
-
-    $('.seo_data_list li').each((index, element) => {
-      const $li = $(element);
-      const $a = $li.find('a').first();
-      const title = $a.text().trim();
-      const href = $a.attr('href');
-
-      if (title && href) {
-        const fullUrl = this.resolveUrl(href);
-        const item = {
-          title: title,
-          url: fullUrl,
-          date: new Date().toISOString().split('T')[0],
-          hash: this.generateHash(title + fullUrl)
-        };
-        items.push(item);
-      }
-    });
-
-    console.log(`Parsed ${items.length} items from Sina Stock`);
-    return items;
   }
 
   normalizeDate(dateText) {

@@ -65,11 +65,6 @@ async function test() {
           lastCheck: null,
           lastHash: null,
           items: []
-        },
-        sinastock: {
-          lastCheck: null,
-          lastHash: null,
-          items: []
         }
       };
       fs.writeFileSync('./data/history.json', JSON.stringify(initialData, null, 2));
