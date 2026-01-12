@@ -9,7 +9,7 @@ class Notifier {
 
   async init() {
     try {
-      this.transporter = nodemailer.createTransporter({
+      this.transporter = nodemailer.createTransport({
         host: this.emailConfig.host,
         port: this.emailConfig.port,
         secure: this.emailConfig.secure,
@@ -229,7 +229,8 @@ class Notifier {
   getSiteName(siteType) {
     const names = {
       szse: '深圳证券交易所',
-      csrc: '中国证监会'
+      csrc: '中国证监会',
+      sinastock: '新浪股票'
     };
     return names[siteType] || siteType;
   }

@@ -1,12 +1,1177 @@
 {
   "szse": {
-    "lastCheck": null,
-    "lastHash": null,
+    "lastCheck": "2026-01-12T09:04:40.881Z",
+    "lastHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "items": []
   },
   "csrc": {
-    "lastCheck": null,
-    "lastHash": null,
-    "items": []
+    "lastCheck": "2026-01-12T09:04:40.926Z",
+    "lastHash": "217a15dd714f07a0cbede5875e317de2a3249720b258d84389e446bafd2ad498",
+    "items": [
+      {
+        "title": "xx省社会信用管理办法\n\t\t\t\t\t\t\t\t\t\t\t（XX年x月x日xxxx令第X号公布 根据xx年x月x日起修订）",
+        "url": "#",
+        "date": "1",
+        "hash": "fafe08878eec6fdf6cbabbeeeb648943d6aaff3a1f03bccd8914570fef17458c"
+      },
+      {
+        "title": "xx省社会信用管理办法\n\t\t\t\t\t\t\t\t\t\t\t（XX年x月x日xxxx令第X号公布 根据xx年x月x日起修订）",
+        "url": "#",
+        "date": "2",
+        "hash": "fafe08878eec6fdf6cbabbeeeb648943d6aaff3a1f03bccd8914570fef17458c"
+      }
+    ]
+  },
+  "sinastock": {
+    "lastCheck": "2026-01-12T09:04:40.961Z",
+    "lastHash": "f549d0934ec7dc390b618108f2764a9aee2842eaae133925c218d47c00a8ebd1",
+    "items": [
+      {
+        "title": "“卖出美国”交易再起 司法部传票加剧市场对美联储独立性的担忧",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fusstock%2Fc%2F2026-01-12%2Fdoc-inhfzukp8380482.shtml",
+        "date": "2026-01-12",
+        "hash": "f8fbd78b9a0ef491bb35012dc2dea0b14c2eb15d90b5e34bc0162f3068c91454"
+      },
+      {
+        "title": "商务部关于中欧电动汽车案磋商进展的通报",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fmarketresearch%2F2026-01-12%2Fdoc-inhfzukr6869350.shtml",
+        "date": "2026-01-12",
+        "hash": "170dc8e6073094884bba8bd284a9ea213f60333b6df1ae0970315eebf36e8911"
+      },
+      {
+        "title": "李德林：老板自掏腰包 是慷慨还是阴谋？",
+        "url": "https://cj.sina.cn/article/norm_detail?url=http%3A%2F%2Ffinance.sina.com.cn%2Fzl%2Fchina%2F2026-01-12%2Fzl-inhfzukr6870562.shtml",
+        "date": "2026-01-12",
+        "hash": "b3a840c20a209f5b65ec81d9527c6115ba7e8e6dcc0995d67ed9e0046227491e"
+      },
+      {
+        "title": "美联储风波叠加伊朗局势，金银价格刷新历史纪录",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fusstock%2Fc%2F2026-01-12%2Fdoc-inhfzukp8378766.shtml",
+        "date": "2026-01-12",
+        "hash": "c68785138a4a2a051541bc97e9e461a63b4ccc7ebd7072203dc969125ddfc5ca"
+      },
+      {
+        "title": "曝追觅CEO自比黄仁勋马斯克，称将打造首个百万亿美金追觅生态",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Ftech%2F2026-01-12%2Fdoc-inhfzuku0014698.shtml",
+        "date": "2026-01-12",
+        "hash": "d8808d4df2e7dee593e1a7a21861156863a478ef24950d1371a832ecaabb30a1"
+      },
+      {
+        "title": "小鹏汽车与工商银行广东省分行达成战略合作，获100亿元授信额度",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Ftech%2F2026-01-12%2Fdoc-inhfzukr6864951.shtml",
+        "date": "2026-01-12",
+        "hash": "9dd0aba61377a5c4aca1e5585fcba4b23f214bf14853bd26d10e4fa74e20eb69"
+      },
+      {
+        "title": "国投白银LOF：后续将调整A类基金份额申购限额",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Fnmetal%2Fhjzx%2F2026-01-12%2Fdoc-inhfzukp8373794.shtml",
+        "date": "2026-01-12",
+        "hash": "3d5676b357bae45af731623a9bf0f0a573e7a55d6d7e386e1c0bac1e9cd12d14"
+      },
+      {
+        "title": "美高院暂缓关税裁决，市场最关注七个关键问题",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fmarketresearch%2F2026-01-12%2Fdoc-inhfzuku0014732.shtml",
+        "date": "2026-01-12",
+        "hash": "a91b44f8dfe2bc18b33a0111f8b445cecf2827fb75c96568015306be683dac3c"
+      },
+      {
+        "title": "招聘机构：AI及技术人才需求旺盛，推动英国金融行业职位空缺数量上涨12%",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fusstock%2Fc%2F2026-01-12%2Fdoc-inhfzukp8370806.shtml",
+        "date": "2026-01-12",
+        "hash": "931f66f83bb4dc5edee1b564702b31802d92682aa55f6dc51eef9ba3234d9b16"
+      },
+      {
+        "title": "小摩：继续看好铜及金 紫金矿业仍为首选标的",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Ftob%2Fmorningpost%2F2026-01-12%2Fdoc-inhfzukv4649981.shtml",
+        "date": "2026-01-12",
+        "hash": "07a4a17f388a62d312fea8b32beb9194bb9a062ffff87c02eeeda875c10563ef"
+      },
+      {
+        "title": "光大期货0112热点追踪：强预期托底，碳酸锂盘中涨停",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Ffuture%2Ffmnews%2F2026-01-12%2Fdoc-inhfzukr6857877.shtml",
+        "date": "2026-01-12",
+        "hash": "d663d37d31550fb5d87262b8265f2c57562db8f57569ac171629afe896244b96"
+      },
+      {
+        "title": "日本计划解散国会 或于2月提前举行大选",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fusstock%2Fc%2F2026-01-12%2Fdoc-inhfzuku0004407.shtml",
+        "date": "2026-01-12",
+        "hash": "644be09fa1482ccb9cc4fbb94bcf49d52670044e5f50ed8288407610ddbaae62"
+      },
+      {
+        "title": "茅台下调部分产品合同价，多款产品单瓶下调超千元",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Froll%2F2026-01-12%2Fdoc-inhfzukp8367980.shtml",
+        "date": "2026-01-12",
+        "hash": "f3d07b2bade590d7cb412827f7b298b7c5991936cf48121a85178444b535d2ac"
+      },
+      {
+        "title": "高盛预警：供应“洪峰”将至，油价今明两年恐震荡下行",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Froll%2F2026-01-12%2Fdoc-inhfzukr6854475.shtml",
+        "date": "2026-01-12",
+        "hash": "f9847e94d36fad7155b749960cbaf3064606455699f5726b09547cbb2204f0e5"
+      },
+      {
+        "title": "倍轻松信披违规迷雾：实控人占用资金金额存疑 更多可疑关联交易浮现",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Ftech%2F2026-01-12%2Fdoc-inhfzukv4649994.shtml",
+        "date": "2026-01-12",
+        "hash": "bd831cfdef4be6924467c0eeb1f276b4650d4fb5cf07860c477f0a6afc3a01c5"
+      },
+      {
+        "title": "港股AI板块全面爆发 美图公司涨超11%",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Ftech%2F2026-01-12%2Fdoc-inhfzukp8364098.shtml",
+        "date": "2026-01-12",
+        "hash": "c3ed346233daabbadc6563a7aa5aff568cf84a388d0aabf9fb5d6fc216ccd15a"
+      },
+      {
+        "title": "工银安盛人寿总精算师落定！准80后张奇履新，深耕平安人寿个险条线二十年",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Finsurance%2Fbxyx%2F2026-01-12%2Fdoc-inhfzukv4645716.shtml",
+        "date": "2026-01-12",
+        "hash": "b5fbcc6e825edac31f8e2598b9996cb85c642f825e65d2b8f1178f9570a84598"
+      },
+      {
+        "title": "华安基金：A股放量上涨，创业板50指数上周涨2.97%",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Ffund%2Fjjh%2F2026-01-12%2Fdoc-inhfzukv4641593.shtml",
+        "date": "2026-01-12",
+        "hash": "7090338e0faaca14c2811f62e4d3b3c153c3f3b77151759ac39f6769f9cf8f59"
+      },
+      {
+        "title": "华安基金：伦敦金价站上4600美元历史新高",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Ffund%2Fjjh%2F2026-01-12%2Fdoc-inhfzukv4640413.shtml",
+        "date": "2026-01-12",
+        "hash": "020091dbe2605b888e04b67e1f5714d9de652648350db08d82ed12245ec1e9cf"
+      },
+      {
+        "title": "上金所发公告：继续做好近期市场风险控制工作",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Fnmetal%2Fhjzx%2F2026-01-12%2Fdoc-inhfzukr6849870.shtml",
+        "date": "2026-01-12",
+        "hash": "4b659808a0d978bb267784f4025133510ee5d3f9c10b56116a04275f65d0cddc"
+      },
+      {
+        "title": "博时市场点评1月12日：两市放量上涨，成交创历史新高",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Ffund%2Fjjh%2F2026-01-12%2Fdoc-inhfzukt9995997.shtml",
+        "date": "2026-01-12",
+        "hash": "fccfa0665bb79f78d6b3b9d34d1aeaa8b829012729c4f569971e6288aa46178e"
+      },
+      {
+        "title": "投资者权衡伊朗原油供应及委内瑞拉出口恢复前景 国际油价小幅回落",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fusstock%2Fc%2F2026-01-12%2Fdoc-inhfzukr6847084.shtml",
+        "date": "2026-01-12",
+        "hash": "31451984d9207a94ad623263aa7ccd43aa09381cbbe5cc01906f689c9093c0eb"
+      },
+      {
+        "title": "贝思半导体公布第四季度初步订单额达2.5亿欧元",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fusstock%2Fc%2F2026-01-12%2Fdoc-inhfzukr6846899.shtml",
+        "date": "2026-01-12",
+        "hash": "a2e2a8b674501a23152fbb1762bd4ca664f0a4b79760e6089065828acd87a4d7"
+      },
+      {
+        "title": "代工依赖、流量成本高企：“轻资产”模式能撑起爷爷的农场IPO吗？",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fnewstock%2F2026-01-12%2Fdoc-inhfzukv4642791.shtml",
+        "date": "2026-01-12",
+        "hash": "7c5ce3b03ef5f5622e4b8ff537a9a6924cad142ea0f9fdcfeef7c83af1222f8f"
+      },
+      {
+        "title": "中国证券业协会召开新一届证券经纪业务专业委员会主任委员会议及全体会议",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2026-01-12%2Fdoc-inhfzukp8356002.shtml",
+        "date": "2026-01-12",
+        "hash": "fce81d3110f597a20a0ee52db4bf6d8b786934691831e953702efe2126d75cbf"
+      },
+      {
+        "title": "英国IQE公司：国防与人工智能需求将推动2025年收益增长",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fusstock%2Fc%2F2026-01-12%2Fdoc-inhfzukv4633076.shtml",
+        "date": "2026-01-12",
+        "hash": "c55245c100620a6c20483e34cb3a8050b3392174e45fcabf4b9a39b60971ea9d"
+      },
+      {
+        "title": "Counterpoint：2025年苹果以20%的市场份额领跑全球智能手机市场",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fusstock%2Fc%2F2026-01-12%2Fdoc-inhfzukv4630961.shtml",
+        "date": "2026-01-12",
+        "hash": "2f20bafb3b040795d93061c5754f6e1a29eeccc5221846e5875e577e07b301aa"
+      },
+      {
+        "title": "花旗：升海底捞目标价至19.7港元 评级“买入”",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Ftob%2Fmorningpost%2F2026-01-12%2Fdoc-inhfzukt9988206.shtml",
+        "date": "2026-01-12",
+        "hash": "7414d9e6473ae06c76870660f32dac26a0b8b733b5568164b62ada77c75590cb"
+      },
+      {
+        "title": "大摩：比亚迪股份更新长续航车款 料内地同业将跟随",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Ftob%2Fmorningpost%2F2026-01-12%2Fdoc-inhfzukt9986636.shtml",
+        "date": "2026-01-12",
+        "hash": "0dca0d14f3dd563e9b30f99de0f214b0efa6d64b3c0aa730fcf5b10550825c75"
+      },
+      {
+        "title": "沪指17连阳，创业板50ETF成交25.59亿领跑同类！资金逆势布局这些主线",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Ffund%2Fjjh%2F2026-01-12%2Fdoc-inhfzukp8348768.shtml",
+        "date": "2026-01-12",
+        "hash": "1231b1e4524c96152601523133d619c5f467face39175c6274b1351b98fd750b"
+      },
+      {
+        "title": "成交额超3.6万亿元！今天，A股显现三大“景观”",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Froll%2F2026-01-12%2Fdoc-inhfzukv4628350.shtml",
+        "date": "2026-01-12",
+        "hash": "95a20519de163435ab3aeacf69dc8730d2c0129ed693a756a62913601523ecb2"
+      },
+      {
+        "title": "年度流行语含“新”量上升！智能经济迎发展新机？",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Ffund%2Fjjh%2F2026-01-12%2Fdoc-inhfzukt9985706.shtml",
+        "date": "2026-01-12",
+        "hash": "efcb8a7f29dd1e6929c852881c6721e09ae88eb577f96417485535b608f3d61d"
+      },
+      {
+        "title": "荣耀数字500系列将与泡泡玛特进行IP联名合作，1月19日发布亮相",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Ftech%2F2026-01-12%2Fdoc-inhfzukv4627695.shtml",
+        "date": "2026-01-12",
+        "hash": "5190516c86f85882bb9278c2309aabd53d3c4b1314b525b278b5a97cba314b41"
+      },
+      {
+        "title": "大摩：东方海外国际末季收入下降符预期 评级“减持”",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Ftob%2Fmorningpost%2F2026-01-12%2Fdoc-inhfzukv4627590.shtml",
+        "date": "2026-01-12",
+        "hash": "3a827ca2a44a53ca269e07800c0500a4119e14508804ab8a47cc4e783ab1241b"
+      },
+      {
+        "title": "多地医保大幅提高产检报销，北京最高可报1万元",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Froll%2F2026-01-12%2Fdoc-inhfzukr6838624.shtml",
+        "date": "2026-01-12",
+        "hash": "21b1abf92f4c0b8bcf59e7a393017e896cfa1e5c8ab54b2ad702d0dae0d075b1"
+      },
+      {
+        "title": "美国司法部向美联储发出传票 鲍威尔称面对威胁将坚守立场",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fusstock%2Fc%2F2026-01-12%2Fdoc-inhfzukp8346503.shtml",
+        "date": "2026-01-12",
+        "hash": "37faf2c531997648c1ff4e9f355e707308e80ce56d975851c0686db566f62083"
+      },
+      {
+        "title": "花旗：升青岛啤酒股份目标价至76.1港元 维持“买入”评级",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Ftob%2Fmorningpost%2F2026-01-12%2Fdoc-inhfzukt9983902.shtml",
+        "date": "2026-01-12",
+        "hash": "23cd19b88b4606e3862a9bc7b00ff628247c2b7bf2181c94b5dc32a2f82fd250"
+      },
+      {
+        "title": "黄金，再创新高！金饰克价涨至1429元",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Fnmetal%2Fhjzx%2F2026-01-12%2Fdoc-inhfzukt9986425.shtml",
+        "date": "2026-01-12",
+        "hash": "c7d480b3e96e019f3d926350b9fea8fdf110e536ba921b3955a47ad5e91d10b0"
+      },
+      {
+        "title": "收评：港股恒指涨1.44% 科指涨3.1% 科网股普涨 AI概念股强势 智谱涨超31% 快手涨超7%",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fhkstock%2Fmarketalerts%2F2026-01-12%2Fdoc-inhfzukv4625310.shtml",
+        "date": "2026-01-12",
+        "hash": "ead9c8ada6b37ece151712a963432481dc8b131316cab4d97cac513a0e1180dd"
+      },
+      {
+        "title": "谷歌牵头零售巨头 推出AI购物通用协议",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fusstock%2Fc%2F2026-01-12%2Fdoc-inhfzukr6833324.shtml",
+        "date": "2026-01-12",
+        "hash": "53cf23cf704ae266b387b802253be5d6d886cfaa8d5838f6cd013b9a5b03b5a1"
+      },
+      {
+        "title": "上期所：同意云南锡业股份有限公司“YT”牌银锭注册",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Ffuture%2Ffmnews%2F2026-01-12%2Fdoc-inhfzukp8343619.shtml",
+        "date": "2026-01-12",
+        "hash": "02f7635991c135f892698f08fbeb58ed5042c6ce195fcddafd265493995ef7be"
+      },
+      {
+        "title": "博时基金董事长张东：2026年市场波动可能加大，资产配置需更注重均衡与灵活",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Ffund%2Fjjyj%2F2026-01-12%2Fdoc-inhfzukv4623495.shtml",
+        "date": "2026-01-12",
+        "hash": "177f308db3220456a88a2220243c3345489218668b09e816eb394af987d5b9b6"
+      },
+      {
+        "title": "马斯克旗下Grok因涉性化图像在印尼、马来西亚遭封禁 系全球首例",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fusstock%2Fc%2F2026-01-12%2Fdoc-inhfzukr6832091.shtml",
+        "date": "2026-01-12",
+        "hash": "dbd6970bde087e46324f478780bc69aae16c1257f8512767ff7a1304965bd022"
+      },
+      {
+        "title": "今天，沸腾了！",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fmarketresearch%2F2026-01-12%2Fdoc-inhfzukv4626520.shtml",
+        "date": "2026-01-12",
+        "hash": "586bb89597616e05ee7e85b9f918f129dfbf9f04f37a9264babb5608831dae09"
+      },
+      {
+        "title": "前海开源基金首席经济学家杨德龙：美元信用受质疑 国际货币体系迎变局",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Ffund%2Fjjyj%2F2026-01-12%2Fdoc-inhfzukp8342419.shtml",
+        "date": "2026-01-12",
+        "hash": "bc1e92a3de8a777967bb17de152eb09e2abead0c6d7c5a42fc363621d063c5d0"
+      },
+      {
+        "title": "中国造船业连续16年居世界第一，全市场首只船舶ETF正式启航",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Ffund%2Fjjh%2F2026-01-12%2Fdoc-inhfzukp8341341.shtml",
+        "date": "2026-01-12",
+        "hash": "3f4146fb587a41905f110547498e644e1f3e9d40f58db91d0c8b197bb1af35bc"
+      },
+      {
+        "title": "五矿资本旗下五矿证券瘦身，保代精简30%",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fquanshang%2F2026-01-12%2Fdoc-inhfzukt9986910.shtml",
+        "date": "2026-01-12",
+        "hash": "7f8001f57eed56639c7564b88aeada66355132bad0e45412585e347d1198402d"
+      },
+      {
+        "title": "GEO革命：AI流量入口重构，借道传媒ETF华夏一键布局",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Ffund%2Fjjh%2F2026-01-12%2Fdoc-inhfzukv4619243.shtml",
+        "date": "2026-01-12",
+        "hash": "6366c497572ad1290cf56a5e9730ff36c5e5812779d40c332a5028618deca594"
+      },
+      {
+        "title": "AI太火了，国信证券首席分析师熊莉朋友圈称：我已经哑了，谢绝一切路演了",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fobserve%2F2026-01-12%2Fdoc-inhfzukr6829049.shtml",
+        "date": "2026-01-12",
+        "hash": "e961c736c9eeb225584ba22db1e219528ea90a96688a74b0b2c56a215cfa43df"
+      },
+      {
+        "title": "招商银行三名独立董事的任职资格获监管核准",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fjryx%2Fhm%2F2026-01-12%2Fdoc-inhfzukr6828992.shtml",
+        "date": "2026-01-12",
+        "hash": "10486d1cc0fc64f4481b0af60034eec48ada2ebf4c630384b78610e166d940a5"
+      },
+      {
+        "title": "伊朗外交部长：安全部队已完全控制伊朗全境",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fusstock%2Fc%2F2026-01-12%2Fdoc-inhfzukv4615899.shtml",
+        "date": "2026-01-12",
+        "hash": "e18afc192622b853c2b529111a7e117d7d1ad4038fe967bd0a7c60b7883bb493"
+      },
+      {
+        "title": "马斯克旗下X平台将采用特斯拉式软件更新策略优化推荐算法",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fusstock%2Fc%2F2026-01-12%2Fdoc-inhfzukr6823119.shtml",
+        "date": "2026-01-12",
+        "hash": "07a3f39419fe05596a16137aefd6502ab3f9c77c22e1da546df9b537f2886fa4"
+      },
+      {
+        "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fmarketresearch%2F2026-01-12%2Fdoc-inhfzukp8334167.shtml",
+        "date": "2026-01-12",
+        "hash": "306160bb78e65c24c6e3b8dbe3a32f3c06ac4212bc3eca7536af7109d9905008"
+      },
+      {
+        "title": "我朋友说，她是最美的公募基金女高管",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Ffund%2Fjjyj%2F2026-01-12%2Fdoc-inhfzukp8342865.shtml",
+        "date": "2026-01-12",
+        "hash": "421cf0b71c71d9989a2f5595e41b8dea5d78932439644f2f400a4ed0f91b6aa1"
+      },
+      {
+        "title": "特朗普政府干预委内瑞拉 对圭亚那巨额石油资源意味着什么",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fusstock%2Fc%2F2026-01-12%2Fdoc-inhfzukt9968839.shtml",
+        "date": "2026-01-12",
+        "hash": "9c1b79951a3d4784be6e4bbdf3a73ab92e478487532fef48bda07a7590126d93"
+      },
+      {
+        "title": "小雨伞保险经纪：两年亏损近5亿与多张罚单背后的模式之困",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Finsurance%2Fbxyx%2F2026-01-12%2Fdoc-inhfzukt9979866.shtml",
+        "date": "2026-01-12",
+        "hash": "7b86c4b86dbe5d673f3e73df6e7ea3784768847ddac4d18ee57793f1fece81bf"
+      },
+      {
+        "title": "华泰人寿：外资控股下的业绩反转与合规隐忧",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Finsurance%2Fbxyx%2F2026-01-12%2Fdoc-inhfzukp8342125.shtml",
+        "date": "2026-01-12",
+        "hash": "1b7dc06588ba5b9eabee2692b315ea8c5c3d1b4917221014f79194fc28f3a405"
+      },
+      {
+        "title": "长城基金汪立：A股处于春季做多窗口期",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Ffund%2Fjjh%2F2026-01-12%2Fdoc-inhfzukv4610477.shtml",
+        "date": "2026-01-12",
+        "hash": "e7fca453d238c235bfea438014c287b4877c7dd7e1249d37ed399856e00a3738"
+      },
+      {
+        "title": "还没毕业，就已经在接单了！这所学校的培养模式有点“新”",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fenterprise%2Fhk%2F2026-01-12%2Fdoc-inhfzukr6820905.shtml",
+        "date": "2026-01-12",
+        "hash": "9088b00eb5f16ce19846eed07b2b4594f6115a3e9e991982de73342b4bb2ab3a"
+      },
+      {
+        "title": "恐高又怕踏空，怎么办？",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Ffund%2Fjjh%2F2026-01-12%2Fdoc-inhfzukr6820498.shtml",
+        "date": "2026-01-12",
+        "hash": "e44f44b8c4cbf394e051fcedc873bdc0f8fca080376424b01dba1dba03754a5b"
+      },
+      {
+        "title": "见证历史！A股，全线爆发！AI，彻底刷屏！还能“嗨”多久？",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fmarketresearch%2F2026-01-12%2Fdoc-inhfzukr6824716.shtml",
+        "date": "2026-01-12",
+        "hash": "98779f169d9f03b32d162131304dc08998e2f8f1195a11412cf4ab0b6420c5c4"
+      },
+      {
+        "title": "中国限制对日民用稀土出口？外交部：中方措施正当合理合法",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2026-01-12%2Fdoc-inhfzukv4607495.shtml",
+        "date": "2026-01-12",
+        "hash": "83971da57d02dd55960664d795d1f9d2ae8d4a7a12f7e37109e482ac177fcf63"
+      },
+      {
+        "title": "招商平安资产回应成被执行人：正在申请抗诉进行维权",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fam%2Fbank%2F2026-01-12%2Fdoc-inhfzukp8326398.shtml",
+        "date": "2026-01-12",
+        "hash": "ba4136b0b56ee84258e29dc512bc230bc3d9df0d64b266eb3d0d6d6c58245eb5"
+      },
+      {
+        "title": "阿克曼预言：美联储将放弃2%通胀目标，美国最快24小时内强力介入伊朗内乱",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fmarketresearch%2F2026-01-12%2Fdoc-inhfzukp8326684.shtml",
+        "date": "2026-01-12",
+        "hash": "f92ceb43aaf42f712506dabc31f18a068024b5739be09973f8793e9433f8bc6d"
+      },
+      {
+        "title": "ST柯利达实控人变更，曾因业绩失准引发索赔",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fgmwq%2Frightscase%2F2026-01-12%2Fdoc-inhfzukr6823814.shtml",
+        "date": "2026-01-12",
+        "hash": "e8aef8cf4916872e5a318f6594fe806bec65d5c9ff9b44b313d2b4a5927d6023"
+      },
+      {
+        "title": "聚石化学财务造假被坐实，受损投资者可索赔",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fgmwq%2Frightscase%2F2026-01-12%2Fdoc-inhfzukt9971603.shtml",
+        "date": "2026-01-12",
+        "hash": "d14bb0ba11007f403a293ce87102ac321ac76e9e38fede9afcb7709e070b3196"
+      },
+      {
+        "title": "美尔雅罚单落地！查实存在资金占用，这类投资者可索赔",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fgmwq%2Frightscase%2F2026-01-12%2Fdoc-inhfzukr6825487.shtml",
+        "date": "2026-01-12",
+        "hash": "04cff6a6c234385a59330805e4f6d0a908ccf2d17e60f3a3b93b740fa929751a"
+      },
+      {
+        "title": "立案风暴袭来！天普股份涉重大遗漏，开盘股价跌停！",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fgmwq%2Frightscase%2F2026-01-12%2Fdoc-inhfzukr6824700.shtml",
+        "date": "2026-01-12",
+        "hash": "c20242b1aa7f2d290f5a94cf90ccf5dc3a2dc5dd8927bd74d5f239fe8150526f"
+      },
+      {
+        "title": "ST京蓝审计机构被罚，因财务造假引发索赔",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fgmwq%2Frightscase%2F2026-01-12%2Fdoc-inhfzukt9972580.shtml",
+        "date": "2026-01-12",
+        "hash": "99c103ff13697c97cf8656a9004e2a1cb248d699e421157760f471e8e101e144"
+      },
+      {
+        "title": "“卖出美国”交易再起 司法部发出传票引发美联储独立性担忧",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fusstock%2Fc%2F2026-01-12%2Fdoc-inhfzukp8325168.shtml",
+        "date": "2026-01-12",
+        "hash": "f857e9278723be31620d353732825cc5ac02318c66f025203d7f05fe43c1983b"
+      },
+      {
+        "title": "8.98万起！2026款秦家族DM-i 210KM长续航版上市",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Ftech%2F2026-01-12%2Fdoc-inhfzukv4600795.shtml",
+        "date": "2026-01-12",
+        "hash": "c86be6e4334e27657ff06e4821bb86d82d772f994a9df02ffe524ce27bf26b5f"
+      },
+      {
+        "title": "洪汇新材公开拍卖房宅豪车总成交超1700万，董助拿下469平米住宅，董秘配偶拍得小型越野车",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fmarketresearch%2F2026-01-12%2Fdoc-inhfzukr6812979.shtml",
+        "date": "2026-01-12",
+        "hash": "ed9199007e029a744a781532b4d75670636da385ef9ada133b919ab7fa7f0088"
+      },
+      {
+        "title": "美国对美联储主席杰罗姆・鲍威尔启动刑事调查",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fusstock%2Fc%2F2026-01-12%2Fdoc-inhfzukv4599281.shtml",
+        "date": "2026-01-12",
+        "hash": "a6cb936c8664f97f00671b349ef3bbfc5903821c7b170bafc92cc07c613e8f03"
+      },
+      {
+        "title": "1月12日沪深两市涨停分析：锋龙股份12连板，银河电子、志特新材6连板",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.cn%2Fstock%2Fdpps%2F2026-01-12%2Fdetail-inhfzukr6812581.d.html",
+        "date": "2026-01-12",
+        "hash": "47248bc0ddb9f9d7f239b5ef3991676e05a11d52e1faad1d2767984d70b683bb"
+      },
+      {
+        "title": "外交部：中方加强两用物项对日本的出口管制 完全正当合理合法",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2026-01-12%2Fdoc-inhfzukt9963363.shtml",
+        "date": "2026-01-12",
+        "hash": "2d6982c0e11328bfb2221d534b1d4047be0d8a625d939fd284fd0c33dc441ab3"
+      },
+      {
+        "title": "人民币对美元即期汇率升至6.97，创近32个月新高",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2026-01-12%2Fdoc-inhfzukt9953901.shtml",
+        "date": "2026-01-12",
+        "hash": "e881c24ebc8bceee780c91dba670dd00ff0a4f8b5e1baab51df82dc3d5871060"
+      },
+      {
+        "title": "机构：2025年全球智能手机出货量增长2%，苹果市占率20%位居第一",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fusstock%2Fc%2F2026-01-12%2Fdoc-inhfzukp8320214.shtml",
+        "date": "2026-01-12",
+        "hash": "279dde1778ca61b63c8ee9fd678a7ad82f6bbeb663e7d675145a411cb9aed121"
+      },
+      {
+        "title": "重阳投资：牛市阶段以不变应万变！",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Ffund%2Fjjyj%2F2026-01-12%2Fdoc-inhfzukv4592881.shtml",
+        "date": "2026-01-12",
+        "hash": "89f18b12363c813269eee0a11a3cba446f9dee8c3fd9e3a55b75ce65ed2a7008"
+      },
+      {
+        "title": "黄仁勋：悲观论调对AI行业无益且正扭曲公共讨论",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fusstock%2Fc%2F2026-01-12%2Fdoc-inhfzukt9949772.shtml",
+        "date": "2026-01-12",
+        "hash": "1828ac619576e3cda57dfcf48fdf077183035ae225416a2625bc3079cbf58bec"
+      },
+      {
+        "title": "视频|杨德龙：2026年牛市行情愈演愈烈 赚钱效应明显提高",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Ffund%2Fjjsy%2F2026-01-12%2Fdoc-inhfzukp8318496.shtml",
+        "date": "2026-01-12",
+        "hash": "afc1f36f3d61e8e7ed3e768521f6271f13658cdd455cc2769cd8dbdc761e1dd3"
+      },
+      {
+        "title": "天府金租股权变更获批 四川天府银行合计持股比例达90%",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fjryx%2Fbank%2F2026-01-12%2Fdoc-inhfzukv4591325.shtml",
+        "date": "2026-01-12",
+        "hash": "f4407f49f12d284f190160935ce15277a45c1b29d35780240732abc79210a86d"
+      },
+      {
+        "title": "美联储主席鲍威尔面临法律诉讼威胁 美国股指期货走低 亚洲股市则大幅上涨",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fusstock%2Fc%2F2026-01-12%2Fdoc-inhfzukv4590771.shtml",
+        "date": "2026-01-12",
+        "hash": "5fd1f1a23ace0db58df2074a1549df400509a2c98da7e16fa7887e05b36d3595"
+      },
+      {
+        "title": "外交部：美国谋取私利 不要拿其他国家当借口",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2026-01-12%2Fdoc-inhfzukp8328616.shtml",
+        "date": "2026-01-12",
+        "hash": "0a23fad64b182f618117b002d542c6f391c8407f32e2fc1b3ee4c72613a6e829"
+      },
+      {
+        "title": "华宝基金2026科技展望：立足“3变2不变”，港股估值拉升只差一个逻辑，重点关注大数据、创业板人工智能",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Ffund%2Fetf%2F2026-01-12%2Fdoc-inhfzukp8315729.shtml",
+        "date": "2026-01-12",
+        "hash": "46e2112dca00b1daa1bb1db2364ff913c6850b84a8933118ce490ee0738eeb07"
+      },
+      {
+        "title": "韩国制定今年出口160亿美元食品及农产品目标",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fusstock%2Fc%2F2026-01-12%2Fdoc-inhfzukv4586476.shtml",
+        "date": "2026-01-12",
+        "hash": "ca08147d90420fbb080f846b4540e290900da855d011b2d416f7f7920c51c558"
+      },
+      {
+        "title": "荣耀手机将与泡泡玛特进行IP联名合作",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Frelnews%2Fhk%2F2026-01-12%2Fdoc-inhfzukr6802299.shtml",
+        "date": "2026-01-12",
+        "hash": "c656e4a9b4ee2214a6ec1341c0d0ea0bf26704b4f22f3df6e318ae6b3e26c10e"
+      },
+      {
+        "title": "特朗普称抗议死亡人数持续攀升 美国正考量针对伊朗的应对方案",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fusstock%2Fc%2F2026-01-12%2Fdoc-inhfzqar8441239.shtml",
+        "date": "2026-01-12",
+        "hash": "ebac69074768b82ec34905306f4f050e85dd81df183dcca9c1d34606fe170623"
+      },
+      {
+        "title": "股指全线上涨 IM主力合约涨3.75%",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Ffuture%2Ffmnews%2F2026-01-12%2Fdoc-inhfzqax4712221.shtml",
+        "date": "2026-01-12",
+        "hash": "80309a42bc79cced41448ebcaa3341ae884828c215135a67f452296d713dd4b1"
+      },
+      {
+        "title": "大涨日，加仓！",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fmarketresearch%2F2026-01-12%2Fdoc-inhfzukv4589934.shtml",
+        "date": "2026-01-12",
+        "hash": "0cf2550eab8822b6703200cd568ba33bccca9516e49f96921e40c114ee5fc10e"
+      },
+      {
+        "title": "今年起这类餐饮娱乐服务等进项税额企业可抵扣",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Froll%2F2026-01-12%2Fdoc-inhfzukv4582427.shtml",
+        "date": "2026-01-12",
+        "hash": "d4cdfec1ce1ae3f93bc733c345b73cb1b282283dfb2e11d88fa18e9b85ba1049"
+      },
+      {
+        "title": "“深圳成全国首个电动车停车收费城市”？假的",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Froll%2F2026-01-12%2Fdoc-inhfzukv4586358.shtml",
+        "date": "2026-01-12",
+        "hash": "021cd24b837f02d93cb88e1f5c202a4f12e542449e957f878cabe8e66f5c26bf"
+      },
+      {
+        "title": "共和党籍参议员保罗再批特朗普：对格陵兰岛进行武力恫吓只会适得其反",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Froll%2F2026-01-12%2Fdoc-inhfzqax4707733.shtml",
+        "date": "2026-01-12",
+        "hash": "d8983943bdd6f1f1bc75dfd2420bf2853d400c475d5a5eee0f7762a3e172d6e7"
+      },
+      {
+        "title": "人工智能需求拉动增长 台积电2024年第四季度利润有望激增27%",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fusstock%2Fc%2F2026-01-12%2Fdoc-inhfzqat6925365.shtml",
+        "date": "2026-01-12",
+        "hash": "198bcb0cca69e6f19302eb49517eec9250ab2f5e7dadd3349125b22bfc51171c"
+      },
+      {
+        "title": "加拿大总理卡尼将访华",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fchina%2F2026-01-12%2Fdoc-inhfzqax4711015.shtml",
+        "date": "2026-01-12",
+        "hash": "06c3d78be65a1fa395966ede14c7330a4fdbee8a26485ca244b984f081e0aea2"
+      },
+      {
+        "title": "收评|国内期货主力合约涨跌互现 沪银涨超14%",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Ffuture%2Ffmnews%2F2026-01-12%2Fdoc-inhfzqax4706428.shtml",
+        "date": "2026-01-12",
+        "hash": "320fb355ab09350523bd7235724e14e9d8cafc790b3b5f0b0a500286d5e502ce"
+      },
+      {
+        "title": "经济热点问答｜美联储主席遭调查为哪般",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2026-01-12%2Fdoc-inhfzqar8438205.shtml",
+        "date": "2026-01-12",
+        "hash": "ca3aa5dadc62295c376fc5fcfef19e6d831801ccd0ea7c6e95dd624253acdb1b"
+      },
+      {
+        "title": "美国房贷利率转变：高利率房主数量反超低利率群体",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fusstock%2Fc%2F2026-01-12%2Fdoc-inhfzqat6923025.shtml",
+        "date": "2026-01-12",
+        "hash": "5893df1d88914a1bd2df3c8978ed1b0b91fb7da8e9efb725e89d0b1b9b8c9f74"
+      },
+      {
+        "title": "美联储梦碎？高盛报告：降息预期时间推迟，华尔街风向变了？",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Fforex%2Fwhqqscgd%2F2026-01-12%2Fdoc-inhfzqaw0062472.shtml",
+        "date": "2026-01-12",
+        "hash": "7cde39026fe490746ffaccb71500df9dd33b518bdc859316220e19de6829a22f"
+      },
+      {
+        "title": "埃克森美孚CEO直言委内瑞拉“不可投资”，特朗普怒怼：那就别来了！",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fmarketresearch%2F2026-01-12%2Fdoc-inhfzqar8434374.shtml",
+        "date": "2026-01-12",
+        "hash": "e847165031699db5cbcabac765b61c1680e79714fdb951d1f9c6a7df14a77e4a"
+      },
+      {
+        "title": "民泰银行上海分行被罚715万元：未按规定报送统计资料等",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fjryx%2Ffd%2F2026-01-12%2Fdoc-inhfzqaw0060821.shtml",
+        "date": "2026-01-12",
+        "hash": "0889ae5e1bb832ee0f09815b2ffec45a0012fc5e1d307ec7becc1c6be96f8e36"
+      },
+      {
+        "title": "工商银行上海市漕河泾科技支行被罚50万元：员工行为管理严重违反审慎经营规则",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fjryx%2Ffd%2F2026-01-12%2Fdoc-inhfzqaw0060782.shtml",
+        "date": "2026-01-12",
+        "hash": "301cd916167b3e3653e66f816c7549ff85467734e6eea1ff3491aa6873d4ba36"
+      },
+      {
+        "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Froll%2F2026-01-12%2Fdoc-inhfzqaw0062083.shtml",
+        "date": "2026-01-12",
+        "hash": "4c5e4a5424fb40da38b49f88c16d7ae58635b434d5b5789cc01887d7cbcdd331"
+      },
+      {
+        "title": "厦门国际银行上海2家支行合计被罚120万元：个人贷款管理严重违反审慎经营规则等",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fjryx%2Ffd%2F2026-01-12%2Fdoc-inhfzqax4703065.shtml",
+        "date": "2026-01-12",
+        "hash": "489a00b8dc5a5de85a62bc1eefa6c4e6f46476cccac00a3deb70cdc8431373e9"
+      },
+      {
+        "title": "美联储梦碎？高盛报告：降息预期时间推迟，华尔街风向变了？",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Fforex%2Fhbfx%2F2026-01-12%2Fdoc-inhfzqat6922267.shtml",
+        "date": "2026-01-12",
+        "hash": "e8af12c01608d13bf8a38667b7f7b9088835d9fd72aff312d1617ae468bc36b0"
+      },
+      {
+        "title": "市场研究机构Counterpoint称 2025年苹果以20%的市场份额领跑全球智能手机市场",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fusstock%2Fc%2F2026-01-12%2Fdoc-inhfzqar8429254.shtml",
+        "date": "2026-01-12",
+        "hash": "5d47d021ec1e373298f76c5322d9730a9e90735197929fb833449f4b5f9cd879"
+      },
+      {
+        "title": "小鹏汇天据悉以保密形式提交港股IPO申请，与大小摩合作，最早今年登陆港交所",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fnewstock%2F2026-01-12%2Fdoc-inhfzqaw0068876.shtml",
+        "date": "2026-01-12",
+        "hash": "9f2321c03248e4a89631f6349cbe8c7b08814fee36a86bcc1520582227acfda3"
+      },
+      {
+        "title": "收评：三大指数均涨超1% 两市成交额超3.6万亿创历史新高",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.cn%2Fstock%2Fdpps%2F2026-01-12%2Fdetail-inhfzqaw0056623.d.html",
+        "date": "2026-01-12",
+        "hash": "b57f8200c88d52f8bafc61efaae60216e256ab3cab4e5543cba337846e8969ae"
+      },
+      {
+        "title": "三大投行唱多Coinbase：伯恩斯坦看好代币化超级周期，高盛称其为加密基建首选",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fhkstock%2Fggscyd%2F2026-01-12%2Fdoc-inhfzqat6919763.shtml",
+        "date": "2026-01-12",
+        "hash": "364567686abb606c1a2f6972eccafaa8d5815e536d73262c2a66eb7e19879d36"
+      },
+      {
+        "title": "茅台1935降出厂价至668元/瓶，每瓶降130元",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Frelnews%2Fcn%2F2026-01-12%2Fdoc-inhfzukr6826806.shtml",
+        "date": "2026-01-12",
+        "hash": "e546071ed9f36559edf9ddf353cfc2194cfb3920a0a0a0200295001b89f8965f"
+      },
+      {
+        "title": "“个人医保云”试点申报启动 破解跨区域医保痛点",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Finsurance%2Fsbxw%2F2026-01-12%2Fdoc-inhfzqar8430241.shtml",
+        "date": "2026-01-12",
+        "hash": "3cf9b5e3535775cc2d143582389c0af8b9bfcfabe15f8ef2eb6305764a7602dc"
+      },
+      {
+        "title": "曝强脑科技秘密提交港股IPO申请，公司暂无回应",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Ftob%2F2026-01-12%2Fdoc-inhfzqaw0050917.shtml",
+        "date": "2026-01-12",
+        "hash": "eaef458667dd430244f835caa6340806e217720c7ba7f09449b901dc3befaadb"
+      },
+      {
+        "title": "由于美联储独立性存隐忧、伊朗局势添变数 黄金价格再创历史新高",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fusstock%2Fc%2F2026-01-12%2Fdoc-inhfzqar8425044.shtml",
+        "date": "2026-01-12",
+        "hash": "7ef450009a6a0b00a0b083d0c875665752d2957fdfccfcb0d90393d7074a7a9e"
+      },
+      {
+        "title": "A股新纪录 成交额创下3.47万亿元",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fmarketresearch%2F2026-01-12%2Fdoc-inhfzqar8426200.shtml",
+        "date": "2026-01-12",
+        "hash": "86f2d4b27296f32a874a53580444f6851193d8a5526838eb7a21245a49ba0d1e"
+      },
+      {
+        "title": "美元指数小幅震荡，等待CPI数据落地",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Fforex%2Fhbfx%2F2026-01-12%2Fdoc-inhfzqat6913282.shtml",
+        "date": "2026-01-12",
+        "hash": "6bfb5a852313b297ce9d9cc8d125ca07748f7d572d50ebcabd71585aaa08e7f9"
+      },
+      {
+        "title": "现货白银升至盘中历史新高",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fusstock%2Fc%2F2026-01-12%2Fdoc-inhfzqat6912600.shtml",
+        "date": "2026-01-12",
+        "hash": "470089d75ccb0dd86773575703136da717e931fa5445134c14d41e45ccaedd7f"
+      },
+      {
+        "title": "见证历史！两市成交额突破3.46万亿刷新纪录",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Froll%2F2026-01-12%2Fdoc-inhfzqax4693472.shtml",
+        "date": "2026-01-12",
+        "hash": "69cca2a0690ea26978a15d02f0b1b1463c66e4265d5741d951c96becbe1397f7"
+      },
+      {
+        "title": "追觅CEO俞浩朋友圈称：将成为人类历史上第一个百万亿美金的公司生态，追觅应该人人财务自由（图）",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fobserve%2F2026-01-12%2Fdoc-inhfzqar8423439.shtml",
+        "date": "2026-01-12",
+        "hash": "39024549352d5fbc6930ab7d906cf94bae1c05ae99e56b1137da6faf6d9f4b7d"
+      },
+      {
+        "title": "港股人工智能概念股狂飙 MINIMAX上市两个交易日股价飙升190%",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Froll%2F2026-01-12%2Fdoc-inhfzqaw0048945.shtml",
+        "date": "2026-01-12",
+        "hash": "471d8cf9913be82d63361682634ec875e56d4fe0744729a3509c6d7f30cd3987"
+      },
+      {
+        "title": "美联储主席受刑事起诉威胁 加密货币应声走高",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fusstock%2Fc%2F2026-01-12%2Fdoc-inhfzqar8422623.shtml",
+        "date": "2026-01-12",
+        "hash": "c51c8bcef64916cf5a6cc3573132f452e1c86bed85e2f829b97e3696012a896f"
+      },
+      {
+        "title": "特朗普对战美联储遇“反击”！共和党要员严斥司法调查威胁央行独立性",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fhkstock%2Fggscyd%2F2026-01-12%2Fdoc-inhfzqax4695876.shtml",
+        "date": "2026-01-12",
+        "hash": "4190d4a46755fa7942be062706a13acf926c723d2da512ed5fae4e34fb68870d"
+      },
+      {
+        "title": "AI应用，为何大爆发？重仓软件开发行业的——信创ETF基金（562030）飙涨7%，三六零等8股涨停！",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Ffund%2Fetf%2F2026-01-12%2Fdoc-inhfzqaw0046006.shtml",
+        "date": "2026-01-12",
+        "hash": "d1c79083c1ad18450b198cfe3480831f8d13f806bece10198241ad066264cbaf"
+      },
+      {
+        "title": "韩国综合股价指数收涨0.8%创出历史最高收盘水平  连续7个交易日上涨 韩元连跌9日",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fusstock%2Fc%2F2026-01-12%2Fdoc-inhfzqaw0045448.shtml",
+        "date": "2026-01-12",
+        "hash": "5096cbaaeead919a37ed7ac57b73af9c8a9eff4b7fc263e1b0e32ba46414aac4"
+      },
+      {
+        "title": "特朗普力荐委内瑞拉石油投资盛宴 现实风险值得投资者三思",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fusstock%2Fc%2F2026-01-12%2Fdoc-inhfzqax4686593.shtml",
+        "date": "2026-01-12",
+        "hash": "6451675c3902c2e796834c4d1c43ca0d31040e95c530d232bbf6e5659202dda2"
+      },
+      {
+        "title": "避险潮爆发！地缘风险和美联储担忧下，黄金创4600新高剑指何方？",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Fnmetal%2Fhjzx%2F2026-01-12%2Fdoc-inhfzqax4685473.shtml",
+        "date": "2026-01-12",
+        "hash": "73c883a52234141d3c52c85ef72ddbed898d0e5289f7bb179a7bec5fd2110104"
+      },
+      {
+        "title": "夫妻匿名向西安交大捐1亿",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Froll%2F2026-01-12%2Fdoc-inhfzqar8419053.shtml",
+        "date": "2026-01-12",
+        "hash": "5f7aff5b526711c433b9f5512f267531881af4796e61314cfac3ed1030b55b64"
+      },
+      {
+        "title": "石油版图大地震！美国恐将掌控全球30%储量 欧佩克的噩梦出现了？",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Ffuture%2Ffmnews%2F2026-01-12%2Fdoc-inhfzqax4685135.shtml",
+        "date": "2026-01-12",
+        "hash": "d49cf4505efcd761c95ca0ec19627d7193afa4097a43e9cebdc11c39e74b673d"
+      },
+      {
+        "title": "智谱单日飙涨62%，总市值破千亿港元！AI概念股全线爆发，机构看好中国科技盈利拐点",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fhkstock%2F2026-01-12%2Fdoc-inhfzqar8417998.shtml",
+        "date": "2026-01-12",
+        "hash": "e281abd48bce79ed07b04e69dc3c464f1f750e8faeb52936fd2d6ce6d5db3d4d"
+      },
+      {
+        "title": "阿里健康涨超9% 与北京梅尔森医药达成战略合作",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fvideoroll%2F2026-01-12%2Fdoc-inhfzqat6906742.shtml",
+        "date": "2026-01-12",
+        "hash": "8d4801d6d178958904370d5b87e9e7eec12e353c50caf134a8bc004ec168ddfd"
+      },
+      {
+        "title": "“史无前例！”美联储主席遭调查为哪般？市场信心会否动摇？",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2026-01-12%2Fdoc-inhfzqax4686155.shtml",
+        "date": "2026-01-12",
+        "hash": "170aa9263c0f1fa82dff09a772c29231628f8ae489ccf05903d9a5ae6ece5e58"
+      },
+      {
+        "title": "脑机接口概念股午后持续走强，南京熊猫6天5板",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2026-01-12%2Fdoc-inhfzqaw0042007.shtml",
+        "date": "2026-01-12",
+        "hash": "77fafb03661639e87f8eaecd31c187f3a2491326f7e23b2caa9b4f0d30754bd3"
+      },
+      {
+        "title": "两融新开账户创近十年新高",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fvideoroll%2F2026-01-12%2Fdoc-inhfzqat6906557.shtml",
+        "date": "2026-01-12",
+        "hash": "2969d0b473c1524603fcfb0ec04b2d34ebc83d61348ef327278a2a41176c9121"
+      },
+      {
+        "title": "东阳光、光大金控在韶关成立股权投资公司 注册资本2.11亿",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fvideoroll%2F2026-01-12%2Fdoc-inhfzqat6906525.shtml",
+        "date": "2026-01-12",
+        "hash": "6321c3d207f9507e44e23cdf780502e397388a9b2d635e9525d7ef39627c7020"
+      },
+      {
+        "title": "越涨越买！港股AI核心工具——港股互联网ETF（513770）涨超5%溢价高企，机构：AI应用商业化拐点正式确立",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Ffund%2Fetf%2F2026-01-12%2Fdoc-inhfzqaw0040309.shtml",
+        "date": "2026-01-12",
+        "hash": "323e19f9e1593a75eb5bc4527e5294096a35f4b1b10b9486b7f0b9b736b6717a"
+      },
+      {
+        "title": "招聘机构称 人工智能与技术专家需求旺盛 推动英国金融行业职位空缺数量上升 12%",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fusstock%2Fc%2F2026-01-12%2Fdoc-inhfzqat6906124.shtml",
+        "date": "2026-01-12",
+        "hash": "d5f37c32836a154e435ca3648e2df5a00fdfabec24d14843166d5670d4679262"
+      },
+      {
+        "title": "地缘“黑天鹅”群飞，黄金、白银再创新高！",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.cn%2F2026-01-12%2Fdetail-inhfzqax4685319.d.html",
+        "date": "2026-01-12",
+        "hash": "19d540d40132e5c571677dd6367b95a2f099dfd28e10c9d8f49f202316ef9147"
+      },
+      {
+        "title": "A股全天成交有望突破历史高点",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fmarketresearch%2F2026-01-12%2Fdoc-inhfzqax4682761.shtml",
+        "date": "2026-01-12",
+        "hash": "4012b5942c5d2b094e7e080989ecbcb1f284660aa1c10c3e10df5a19b58360c2"
+      },
+      {
+        "title": "脑机接口概念持续走强，道氏技术“20cm”涨停",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2026-01-12%2Fdoc-inhfzqax4682997.shtml",
+        "date": "2026-01-12",
+        "hash": "f78bea6628eaf93e4f142d4f73f6ea82c4a39fbfb9860d8355f5549e275259cc"
+      },
+      {
+        "title": "瑞银：维持中国燃气的“买入”评级 目标价由8.2港元上调至8.9港元",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Ftob%2Fmorningpost%2F2026-01-12%2Fdoc-inhfzqax4680819.shtml",
+        "date": "2026-01-12",
+        "hash": "ee7fa68f4a6d4b892f79d4a0e09bf4053e81b23b7854d78d3d3fed07597b9129"
+      },
+      {
+        "title": "韩国KOSPI指数收涨0.84%",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2026-01-12%2Fdoc-inhfzqaw0039822.shtml",
+        "date": "2026-01-12",
+        "hash": "725f2eb1acbbe6ea9f95c1c5602efbd98454c4054a14e50a110c3747e31bab01"
+      },
+      {
+        "title": "泡泡玛特将推出潮玩手机？官方回应来了",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Froll%2F2026-01-12%2Fdoc-inhfzqaw0040099.shtml",
+        "date": "2026-01-12",
+        "hash": "d0f70ea68253730b86a95cde401ca0174264600fb61161bd9804d38952d2307a"
+      },
+      {
+        "title": "2026年大类资产如何配？首席经济学家们发声：股债市场均有机会，贵金属价格继续飙升",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Froll%2F2026-01-12%2Fdoc-inhfzqax4681893.shtml",
+        "date": "2026-01-12",
+        "hash": "c129385ecc058c35ee657ae7a6946be1a383a21ea33018de21dc48675ec7d5f4"
+      },
+      {
+        "title": "国际黄金期价，创历史新高！",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2026-01-12%2Fdoc-inhfzqar8415898.shtml",
+        "date": "2026-01-12",
+        "hash": "3a7488f0a9985518d53cd206fb688309d12b8094affbb519fecb105d7b94f41b"
+      },
+      {
+        "title": "日韩股市集体收涨",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Froll%2F2026-01-12%2Fdoc-inhfzqax4681793.shtml",
+        "date": "2026-01-12",
+        "hash": "1cf8bea45541d942af6b4245e985d19477a0fadeada6c65db0dc930f02db10ab"
+      },
+      {
+        "title": "创业板指涨幅扩大至2%",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2026-01-12%2Fdoc-inhfzqaw0037013.shtml",
+        "date": "2026-01-12",
+        "hash": "4e3d7d59e6818435bbd7820798480b7d53ae2f1cc4e0b83f3cd5bfd7fc43b0d1"
+      },
+      {
+        "title": "复牌后一字跌停！16倍大牛股天普股份发布声明",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2026-01-12%2Fdoc-inhfzqat6902884.shtml",
+        "date": "2026-01-12",
+        "hash": "cb7b2beccc03c3cb314108ff64eaa1fd86ca515f2f678f52d8fdd0695d751bc8"
+      },
+      {
+        "title": "创业板指涨2.00%",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Froll%2F2026-01-12%2Fdoc-inhfzqat6902525.shtml",
+        "date": "2026-01-12",
+        "hash": "c42a57a1e16c3b7ec8d9e81a9061cce4ef6c513a749f3fd050c40b1430e06c28"
+      },
+      {
+        "title": "中际旭创成交额达200亿元，现涨1.82%",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2026-01-12%2Fdoc-inhfzqar8413483.shtml",
+        "date": "2026-01-12",
+        "hash": "42c7f9b18eb823c782f2fa4a09ca0a3f5f481f81c9ab8e4607cb6835ca80cd71"
+      },
+      {
+        "title": "李大霄：中国股市掀开新的一页",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Froll%2F2026-01-12%2Fdoc-inhfzqaw0033484.shtml",
+        "date": "2026-01-12",
+        "hash": "d58ac04c65454a48d14d744af78dfe4f659e66156f45e1c69e735348ee9e7fb5"
+      },
+      {
+        "title": "商业航天大爆发！如何一键打包航空航天龙头？",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Ffund%2Fetf%2F2026-01-12%2Fdoc-inhfzqat6901086.shtml",
+        "date": "2026-01-12",
+        "hash": "1fd855e643740c50f4f695492650d0920815d8f3ec70e3cb2093f476b3aa8b71"
+      },
+      {
+        "title": "港股智谱持续拉升，盘中一度涨超60%",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2026-01-12%2Fdoc-inhfzqax4677285.shtml",
+        "date": "2026-01-12",
+        "hash": "7daf58e87ac453fa786a3ffa163caf53906bfaed206ef5f5d7807b726d139766"
+      },
+      {
+        "title": "焦煤连续主力合约日内涨4%",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Froll%2F2026-01-12%2Fdoc-inhfzqaw0035645.shtml",
+        "date": "2026-01-12",
+        "hash": "a1c7185303555f6d0da1cfcab77b51a0a1e314d3a27e4c5e021eaa7148c20217"
+      },
+      {
+        "title": "宁德时代成交额超150亿元",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Frelnews%2Fcn%2F2026-01-12%2Fdoc-inhfzqar8415346.shtml",
+        "date": "2026-01-12",
+        "hash": "c637a2b7d5dbc2f44b6e2dc8eba4f9d24cca0cc9ded4a03e2f1e08d5ab65c8cd"
+      },
+      {
+        "title": "智明达成交额创上市以来新高",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Frelnews%2Fcn%2F2026-01-12%2Fdoc-inhfzqaw0041170.shtml",
+        "date": "2026-01-12",
+        "hash": "a7d5388a0adaa2163fef10c8f0f668ff212648501aec7224e38f6d205490f640"
+      },
+      {
+        "title": "科大讯飞成交额超100亿元",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Frelnews%2Fcn%2F2026-01-12%2Fdoc-inhfzqaw0037364.shtml",
+        "date": "2026-01-12",
+        "hash": "f82b5869d650115b96242a052f2b138258bb1a445d001785cedaeb241d5f8354"
+      },
+      {
+        "title": "万兴科技成交额创2024年12月11日以来新高",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Frelnews%2Fcn%2F2026-01-12%2Fdoc-inhfzqaw0037263.shtml",
+        "date": "2026-01-12",
+        "hash": "fae25f45b3cf7f361ad2a3b7736d6a25fa5c07264f07a40bb1f3487b39682ca6"
+      },
+      {
+        "title": "泡泡玛特回应传言：近期会和知名手机品牌推出IP联名合作",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2026-01-12%2Fdoc-inhfzqaw0034515.shtml",
+        "date": "2026-01-12",
+        "hash": "d27365445f60f707c04c1c09f6912248f688557bd1db11c247c5041fcc0254fa"
+      },
+      {
+        "title": "泡泡玛特回应传言：近期会和知名手机品牌推出IP联名合作",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2026-01-12%2Fdoc-inhfzqax4676817.shtml",
+        "date": "2026-01-12",
+        "hash": "568b11a30a6b81c337214d604a0c40748dd248dd78d84b6bf999c3d632cd9bf3"
+      },
+      {
+        "title": "光环新网成交额创2025年3月13日以来新高",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Frelnews%2Fcn%2F2026-01-12%2Fdoc-inhfzqat6906353.shtml",
+        "date": "2026-01-12",
+        "hash": "058888129aea12517e7cfe3826bb508645b6a25e74ce4e0383bebcb7192d797e"
+      },
+      {
+        "title": "博彦科技成交额创2025年7月11日以来新高",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Frelnews%2Fcn%2F2026-01-12%2Fdoc-inhfzqax4681600.shtml",
+        "date": "2026-01-12",
+        "hash": "33f9d8a99e4da5a97d3a89fb487ce75425ccbc6e8b483cb4bf0489d3ba9c5cd5"
+      },
+      {
+        "title": "姚记科技成交额创2025年6月13日以来新高",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Frelnews%2Fcn%2F2026-01-12%2Fdoc-inhfzqax4681578.shtml",
+        "date": "2026-01-12",
+        "hash": "2eac27f061b3e998b089ab3086a4536aed485169a2287fa678129afeaadf294a"
+      },
+      {
+        "title": "港股智谱持续拉升，涨超60%",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Froll%2F2026-01-12%2Fdoc-inhfzqaw0035562.shtml",
+        "date": "2026-01-12",
+        "hash": "676af87ffdb657d54b5f2db92387e9bb515f2cbfa6d1a031a976c122e404ebd0"
+      },
+      {
+        "title": "创业板指涨逾2%",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2026-01-12%2Fdoc-inhfzqax4677287.shtml",
+        "date": "2026-01-12",
+        "hash": "2b133f42201c9bd211cdbb74047d726964eb136b4ecc13be3453cc1424a831a5"
+      },
+      {
+        "title": "创业板指涨2%",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Froll%2F2026-01-12%2Fdoc-inhfzqaw0037633.shtml",
+        "date": "2026-01-12",
+        "hash": "34b0f4c9033686a79391d1919b42fa5f24e1410f27bb3514643f960db156fe5a"
+      },
+      {
+        "title": "李大霄：成交或创历史新高",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Froll%2F2026-01-12%2Fdoc-inhfzqaw0032690.shtml",
+        "date": "2026-01-12",
+        "hash": "15131fe261546c0df490772ccfb813e1804bf3889f8842f41600a3ff996840cd"
+      },
+      {
+        "title": "金饰价格迎年内首轮上调",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fvideoroll%2F2026-01-12%2Fdoc-inhfzqaw0032490.shtml",
+        "date": "2026-01-12",
+        "hash": "17d968277802f456fface7e5866e2a933620ca1f231c5363201691211891030d"
+      },
+      {
+        "title": "港股智谱持续拉升涨超60%",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Froll%2F2026-01-12%2Fdoc-inhfzqar8415543.shtml",
+        "date": "2026-01-12",
+        "hash": "c0ff6fd3698595b7de5887c548c11d78231e89487b88d7cd2cea488fc91e9c90"
+      },
+      {
+        "title": "晕，连ETF都涨停了...",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fmarketresearch%2F2026-01-12%2Fdoc-inhfzqat6903576.shtml",
+        "date": "2026-01-12",
+        "hash": "078c8ec471c54f3bffa3973c97edb37300c0842ce65438e75d229846f852bb9a"
+      },
+      {
+        "title": "军工股炸裂暴涨，军工ETF华宝（512810）狂飙逾7%，溢价同步冲高！ 8股涨停，华力创通20CM封板",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Ffund%2Fetf%2F2026-01-12%2Fdoc-inhfzqax4673848.shtml",
+        "date": "2026-01-12",
+        "hash": "3cc70e86e3f6c1f7053f6a973ffa02de597aa185fe9c42c9ddf2db215127c7d8"
+      },
+      {
+        "title": "香港地产股普升 恒基地产(00012)涨3.65% 花旗上调2026年香港住宅楼价预测",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Frelnews%2Fhk%2F2026-01-12%2Fdoc-inhfzqax4679771.shtml",
+        "date": "2026-01-12",
+        "hash": "c82d9dad2bf02dffa8d5bd9e8fea149b54c7bcf1f9dc1ed9f5163e34909a3133"
+      },
+      {
+        "title": "今日盘中突破半年线个股",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Frelnews%2Fcn%2F2026-01-12%2Fdoc-inhfzqaw0034433.shtml",
+        "date": "2026-01-12",
+        "hash": "2cacd22d5917f4dc5e56b6c78e06afdba34166e3b80922b2e95f299eb17e0d18"
+      },
+      {
+        "title": "新点软件盘中涨停",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Frelnews%2Fcn%2F2026-01-12%2Fdoc-inhfzqat6906246.shtml",
+        "date": "2026-01-12",
+        "hash": "9f2a96e6e00968bc2bf155d7493d652112c580d9db51c4eac97b1b49d2d2a179"
+      },
+      {
+        "title": "今日盘中突破年线个股",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Frelnews%2Fcn%2F2026-01-12%2Fdoc-inhfzqaw0040513.shtml",
+        "date": "2026-01-12",
+        "hash": "694fcd4fe28210ff7a4a4056f3716c251f6a867ba8f8bc364644e6090dc95e6c"
+      },
+      {
+        "title": "今日372只个股突破五日均线",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Frelnews%2Fcn%2F2026-01-12%2Fdoc-inhfzqaw0032572.shtml",
+        "date": "2026-01-12",
+        "hash": "345f677798d1bad8963f98a051825c11cd8da4fec22b5adbe8fd5eb1dc89e60b"
+      },
+      {
+        "title": "A股历史第七次成交额达3万亿元",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2026-01-12%2Fdoc-inhfzqar8410180.shtml",
+        "date": "2026-01-12",
+        "hash": "979eb109d80fdbca33d375592ee118956c8df7882c5a0c2ceb7fa5cff5d7ae07"
+      },
+      {
+        "title": "000987，触及涨停",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Frelnews%2Fcn%2F2026-01-12%2Fdoc-inhfzqax4676400.shtml",
+        "date": "2026-01-12",
+        "hash": "6437aefae092b79bc151bf3afe7d6eeda2e5619ad0373824f5877912aede2656"
+      },
+      {
+        "title": "港股科网股午后持续走强",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Froll%2F2026-01-12%2Fdoc-inhfzqax4672242.shtml",
+        "date": "2026-01-12",
+        "hash": "0fdb3c0a2f70220e1055db1862e8c94599f3995c3c3cdad9803e1c6c3a077887"
+      },
+      {
+        "title": "呼伦贝尔能源投资开发集团增资至208亿 增幅约20701%",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fvideoroll%2F2026-01-12%2Fdoc-inhfzqaw0028830.shtml",
+        "date": "2026-01-12",
+        "hash": "9d71e7232f0d0b24104c39ee711d20f2c9fd445a083dd54dc41f48c4a626bcad"
+      },
+      {
+        "title": "富力地产387亿逾期债务背后的烈火与尘埃",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fmarketresearch%2F2026-01-12%2Fdoc-inhfzqar8408718.shtml",
+        "date": "2026-01-12",
+        "hash": "0bee78520b0e80141540e5b519e07ddb498ff9b25fdb740637ab2b28a2dcba96"
+      },
+      {
+        "title": "A股三大指数均涨逾1%，上涨个股近4000只",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2026-01-12%2Fdoc-inhfzqaw0030167.shtml",
+        "date": "2026-01-12",
+        "hash": "34e7a5024628589b2a90d1a91cd128a4ba37383af03e5dbb19bb6e6f438f268d"
+      },
+      {
+        "title": "医保跨省共济提速，民生保障更有温度",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Finsurance%2Fbxdt%2F2026-01-12%2Fdoc-inhfzqar8408205.shtml",
+        "date": "2026-01-12",
+        "hash": "fea4ff28c63e6bf28a3b6f5622e4fc9872eeee852c8c923cade95adfc7863ee7"
+      },
+      {
+        "title": "快讯：三大指数均涨超1% 全市场超3900家个股上涨",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.cn%2Fstock%2Fdpps%2F2026-01-12%2Fdetail-inhfzqar8408227.d.html",
+        "date": "2026-01-12",
+        "hash": "440b1880db06e2bd040bc656e6acc9ff577ac1fb120263d664d895022869ae3b"
+      },
+      {
+        "title": "春节需求启动，鸡蛋价格或整体上涨",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Ffuture%2F2026-01-12%2Fdoc-inhfzqar8407479.shtml",
+        "date": "2026-01-12",
+        "hash": "e2de81c76d6e7beeedd9d8be223dec4e16804c4915b8b2f0a0459da0e9f5bb6d"
+      },
+      {
+        "title": "四箭齐发！2026年A股新增资金大潮，到底有多猛？",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fmarketresearch%2F2026-01-12%2Fdoc-inhfzqat6897893.shtml",
+        "date": "2026-01-12",
+        "hash": "ad2b6e815f609b127e81fc3d6d81531b17713103ec61caf8bf8d9f7ee0b346a6"
+      },
+      {
+        "title": "A股三大指数均涨超1%",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Froll%2F2026-01-12%2Fdoc-inhfzqax4670684.shtml",
+        "date": "2026-01-12",
+        "hash": "69047d18c3c8eabc8fa69f425d9002c07c500c4913cbf46c117ec467572b27f0"
+      },
+      {
+        "title": "章泽天开通个人播客，上线2小时收听量超1.6万",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Ftob%2F2026-01-12%2Fdoc-inhfzqar8407337.shtml",
+        "date": "2026-01-12",
+        "hash": "0f6e5b56fa842170eace0e7085372f9cbdc44a1a0d95d7f98cd6cfd46988ea81"
+      },
+      {
+        "title": "上证指数涨超1%",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Froll%2F2026-01-12%2Fdoc-inhfzqat6904337.shtml",
+        "date": "2026-01-12",
+        "hash": "8a67276b6d8b680d14f94f242ce0d8bfbaebdb6dd556d46f6146b851bdc4c711"
+      },
+      {
+        "title": "成本端支撑叠加供应端缩减 元旦节后沥青价格重心连续推升",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Ffuture%2F2026-01-12%2Fdoc-inhfzqat6895874.shtml",
+        "date": "2026-01-12",
+        "hash": "3e6804b058a86bc9f9ae5839f9c51bbbd9646490cf3bd043825ad98ff5a92e33"
+      },
+      {
+        "title": "港股科网股午后走强：快手涨近7%，美团等多股跟涨",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fvideoroll%2F2026-01-12%2Fdoc-inhfzqaw0027012.shtml",
+        "date": "2026-01-12",
+        "hash": "b13aa390432733551bfd3c1d18169c35b892ddb1258e4e5434dbe05d7f6bf735"
+      },
+      {
+        "title": "华北玉米：价格盘整、供需拉锯何时休？",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Ffuture%2F2026-01-12%2Fdoc-inhfzqaw0026796.shtml",
+        "date": "2026-01-12",
+        "hash": "55e0964fbd67a6488db4d86fd26a1e4e630dcd338b5f301e6cf1d362e356141d"
+      },
+      {
+        "title": "小米设计师解读SU7卡布里蓝新色开发过程",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Froll%2F2026-01-12%2Fdoc-inhfzqaw0027628.shtml",
+        "date": "2026-01-12",
+        "hash": "58db094e95f7c0f29be174457f05a4994e1edf85c2431507fad8af9ba3188763"
+      },
+      {
+        "title": "政府投资基金该投向哪？如何评价？新规明确：这些红线不能碰",
+        "url": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Froll%2F2026-01-12%2Fdoc-inhfzqar8407082.shtml",
+        "date": "2026-01-12",
+        "hash": "389b111494305bcf2c820d30f957de8b1b4c825d627c689fbaf7cd9117b5d4f3"
+      }
+    ]
   }
 }
