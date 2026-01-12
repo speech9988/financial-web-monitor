@@ -1,3 +1,4 @@
+require('dotenv').config();
 const Scraper = require('./scraper');
 const Parser = require('./parser');
 const Comparator = require('./comparator');
