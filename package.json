@@ -17,9 +17,17 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "overrides": {
+    "undici": "^6.23.0"
+  },
   "dependencies": {
-    "axios": "^1.6.7",
+    "axios": "^1.7.9",
     "cheerio": "^1.0.0-rc.12",
-    "nodemailer": "^6.9.11"
+    "dotenv": "^17.2.3",
+    "nodemailer": "^6.9.11",
+    "undici": "^6.23.0"
   }
 }

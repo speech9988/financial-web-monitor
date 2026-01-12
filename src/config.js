@@ -9,6 +9,11 @@ module.exports = {
       name: '中国证监会',
       url: 'http://www.csrc.gov.cn/csrc/c101953/zfxxgk_zdgk.shtml',
       type: 'csrc'
+    },
+    sinastock: {
+      name: '新浪股票',
+      url: 'https://finance.sina.com.cn/roll/',
+      type: 'sinastock'
     }
   },
 
